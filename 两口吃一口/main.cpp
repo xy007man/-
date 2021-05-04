@@ -25,10 +25,11 @@ int main()
 			std::cin >> toRow;
 			std::cin >> toCol;
 		}while (PersonOneStep(fromRow, fromCol, toRow, toCol));
-#endif
+
 		if (IsCurrentPlayLose()) {
 			break;
 		}
+#endif
 		ComputerOneStep();
 		DrawBoard();
 	}
