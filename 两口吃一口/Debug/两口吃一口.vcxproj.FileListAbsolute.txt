@@ -1,0 +1,6 @@
+D:\workspace\VS\两口吃一口\Debug\两口吃一口.exe
+D:\workspace\VS\两口吃一口\Debug\两口吃一口.pdb
+D:\workspace\VS\2KouChiYiKou\Debug\两口吃一口.exe
+D:\workspace\VS\2KouChiYiKou\Debug\两口吃一口.pdb
+D:\workspace\VS\2KouChiYiKou\两口吃一口\Debug\两口吃一口.exe
+D:\workspace\VS\2KouChiYiKou\两口吃一口\Debug\两口吃一口.pdb
