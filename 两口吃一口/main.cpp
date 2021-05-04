@@ -26,6 +26,9 @@ int main()
 			std::cin >> toCol;
 		}while (PersonOneStep(fromRow, fromCol, toRow, toCol));
 #endif
+		if (IsCurrentPlayLose()) {
+			break;
+		}
 		ComputerOneStep();
 		DrawBoard();
 	}
